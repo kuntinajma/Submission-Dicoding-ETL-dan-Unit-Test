@@ -2,7 +2,7 @@
 
 ## Deskripsi Proyek
 
-Proyek ini adalah pembuatan ETL (Extract, Transform, Load) pipeline untuk mengambil data produk dari website **Fashion Studio Dicoding**, melakukan transformasi pada data, dan memuatnya ke dalam beberapa repositori data seperti file CSV dan Google Sheets. Proyek ini juga dilengkapi dengan unit testing untuk memvalidasi setiap tahapan dalam ETL pipeline.
+Proyek ini adalah pembuatan ETL (Extract, Transform, Load) pipeline untuk mengambil data produk dari website **Fashion Studio Dicoding**, melakukan transformasi pada data, dan memuatnya ke dalam beberapa repositori data seperti file CSV, Google Sheets, dan PostgreeSQL. Proyek ini juga dilengkapi dengan unit testing untuk memvalidasi setiap tahapan dalam ETL pipeline.
 
 ### Fitur Utama:
 - **Extract:** Mengambil data produk dari website https://fashion-studio.dicoding.dev/.
