@@ -8,7 +8,7 @@ Proyek ini adalah pembuatan ETL (Extract, Transform, Load) pipeline untuk mengam
 - **Extract:** Mengambil data produk dari website https://fashion-studio.dicoding.dev/.
 - **Transform:** Membersihkan dan memodifikasi data, termasuk mengonversi harga menjadi rupiah, menghapus data invalid, dan memastikan tipe data yang sesuai.
 - **Load:** Menyimpan data yang sudah dibersihkan ke dalam file CSV, Google Sheets, dan PostgreeSQL.
-- **Unit Testing:** Melakukan pengujian unit pada setiap tahapan ETL menggunakan pytest.
+- **Unit Testing:** Melakukan pengujian unit pada setiap tahapan ETL.
 
 ## Penjelasan Berkas
 
